@@ -1,0 +1,46 @@
+name: Tudor Gems — Dagelijks blogartikel
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # Elke dag om 9:00 UTC (11:00 Nederlandse tijd)
+  workflow_dispatch:        # Ook handmatig te starten via GitHub
+
+jobs:
+  post-article:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: State bestand ophalen (cache)
+        uses: actions/cache@v4
+        with:
+          path: daily_blog_state.json
+          key: blog-state-${{ github.run_number }}
+          restore-keys: |
+            blog-state-
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Requests installeren
+        run: pip install requests
+
+      - name: Artikel uploaden
+        env:
+          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+        run: python daily_blog.py
+
+      - name: State opslaan in repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_blog_state.json
+          git diff --staged --quiet || git commit -m "State update: artikel geplaatst op $(date +'%Y-%m-%d')"
+          git push
