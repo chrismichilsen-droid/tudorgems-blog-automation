@@ -5,6 +5,9 @@ on:
     - cron: '0 9 * * *'   # Elke dag om 9:00 UTC (11:00 Nederlandse tijd)
   workflow_dispatch:        # Ook handmatig te starten via GitHub
 
+permissions:
+  contents: write
+
 jobs:
   post-article:
     runs-on: ubuntu-latest
