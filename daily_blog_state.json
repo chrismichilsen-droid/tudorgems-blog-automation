@@ -1,7 +1,8 @@
 {
   "used_indices": [
     0,
-    1
+    1,
+    2
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -12,5 +13,10 @@
     "shopify_id": 1002059596108,
     "title": "RVS ketting dames \u2014 welke lengte past bij jou?",
     "uploaded_at": "2026-04-11T14:22:42.211008"
+  },
+  "article_2": {
+    "shopify_id": 1002066870604,
+    "title": "Zilveren sieraden combineren \u2014 complete stijlgids",
+    "uploaded_at": "2026-04-12T11:08:44.816654"
   }
 }
