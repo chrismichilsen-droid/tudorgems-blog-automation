@@ -6,14 +6,14 @@ Roept de Anthropic API aan om een volledig artikel te schrijven,
 en uploadt het direct naar Shopify.
 """
 
-import requests, json, time, sys
+import requests, json, time, sys, os
 from datetime import datetime
 from pathlib import Path
 
 # ── CONFIG ──────────────────────────────────────────────────────────
 SHOP          = "kvgjzm-tw.myshopify.com"
-CLIENT_ID     = "SHOPIFY_CLIENT_ID_REMOVED"
-CLIENT_SECRET = "SHOPIFY_SECRET_REMOVED"
+CLIENT_ID     = os.environ["SHOPIFY_CLIENT_ID"]
+CLIENT_SECRET = os.environ["SHOPIFY_CLIENT_SECRET"]
 API_VERSION   = "2026-01"
 BLOG_ID       = 118080373068
 AUTHOR        = "Nina Willemse"
