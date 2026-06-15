@@ -340,6 +340,86 @@ TOPICS = [
         "cta_text": "Bekijk onze RVS armbanden",
         "cta_url": "/collections/armbanden",
     },
+    {
+        "title": "Oorbellen die niet zweren — de oplossing voor gevoelige oren",
+        "tags": "oorbellen die niet zweren, gevoelige oren, nikkelvrij, rvs sieraden, hypoallergeen",
+        "keywords": ["oorbellen die niet zweren", "oorbellen gevoelige oren", "nikkelvrije oorbellen"],
+        "meta": "Oorbellen die niet zweren? RVS 316L is nikkelvrij en hypoallergeen — ideaal voor gevoelige oren. Ontdek waarom je oren ervan rustig blijven bij Tudor Gems.",
+        "outline": [
+            ("Waarom gaan oren zweren van oorbellen?", "Zweren ontstaat meestal door een allergische reactie op nikkel, een metaal dat in veel goedkope oorbellen zit. De huid raakt geïrriteerd, rood en soms ontstoken. Ook gold plated oorbellen kunnen nikkel bevatten in het basismetaal."),
+            ("Wat is de oplossing? Nikkelvrij materiaal", "De enige echte oplossing is een materiaal dat geen nikkel afgeeft. 316L roestvrij staal (RVS) is nikkelvrij en hypoallergeen — het geeft geen stoffen af aan je huid, ook niet bij langdurig dragen."),
+            ("Waarom RVS oorbellen niet laten zweren", "RVS is chirurgisch staal: hetzelfde materiaal dat in medische implantaten en piercings wordt gebruikt. Het is bestand tegen zweet, water en huidvet, en blijft stabiel — dus geen reactie, geen jeuk, geen zweren."),
+            ("Waar let je op bij het kopen?", "Let op de term '316L roestvrij staal' of 'surgical steel'. Vermijd vage omschrijvingen als 'legering' of 'fashion metal'. Bij gold plated: check of de kern nikkelvrij is — vaak is dat niet zo."),
+            ("Welke oorbellen zijn geschikt voor gevoelige oren?", "Studs (oorknopjes), kleine creolen en lichtgewicht oorhangers in RVS zijn allemaal veilig. Hoe lichter de oorbel, hoe minder druk op het gaatje — wat irritatie verder voorkomt."),
+            ("Verzorging om irritatie te voorkomen", "Maak je oorbellen en oorgaatjes af en toe schoon met water. Ook met nikkelvrije RVS oorbellen blijft een schone basis belangrijk voor gezonde oren."),
+        ],
+        "cta_text": "Bekijk onze hypoallergene RVS oorbellen",
+        "cta_url": "/collections/oorbellen",
+    },
+    {
+        "title": "Betaalbare sieraden die niet verkleuren — bestaat dat echt?",
+        "tags": "betaalbare sieraden, sieraden die niet verkleuren, goedkoop, rvs sieraden, waterproof",
+        "keywords": ["goedkope sieraden die niet verkleuren", "betaalbare sieraden", "sieraden niet verkleuren goedkoop"],
+        "meta": "Betaalbare sieraden die niet verkleuren? Ja, dat kan. RVS 316L blijft jarenlang mooi, is waterproof en nikkelvrij — al vanaf €10 bij Tudor Gems.",
+        "outline": [
+            ("Waarom verkleuren goedkope sieraden zo snel?", "Veel betaalbare sieraden zijn gemaakt van verguld basismetaal of legeringen. De dunne goudlaag slijt door zweet, water en zeep, waarna het basismetaal doorschemert — groen, grijs of koperkleurig."),
+            ("Goedkoop hoeft niet 'slechte kwaliteit' te betekenen", "De prijs van een sieraad zegt niet alles over de levensduur. Het draait om het materiaal. RVS sieraden zijn betaalbaar én duurzaam — een zeldzame combinatie."),
+            ("Waarom RVS niet verkleurt", "316L roestvrij staal verkleurt van nature niet. Het oxideert niet, roest niet en reageert niet op water, zweet of zeep. De kleur (zilver of PVD-goud) blijft jarenlang stabiel."),
+            ("Wat kost een sieraad dat écht niet verkleurt?", "Bij Tudor Gems begint betaalbare, niet-verkleurende RVS al vanaf €10. Je betaalt dus niet meer dan voor een fast-fashion sieraad, maar je hebt er jaren plezier van in plaats van weken."),
+            ("Reken het eens uit: goedkoop is duurkoop", "Een verguld sieraad van €15 dat na 3 maanden verkleurt, vervang je 3-4 keer per jaar. Een RVS sieraad van €15 draag je jaren. Op de lange termijn is RVS dus juist goedkoper."),
+            ("Waar koop je betaalbare RVS sieraden?", "Let op de term '316L roestvrij staal' en een duidelijke waterproof-belofte. Bij Tudor Gems is alles RVS — betaalbaar, waterproof en nikkelvrij, met gratis verzending."),
+        ],
+        "cta_text": "Bekijk onze betaalbare RVS sieraden",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Sieraden cadeauset samenstellen — de complete gids",
+        "tags": "sieraden cadeauset, cadeau set, sieraden set, cadeau voor haar, rvs sieraden",
+        "keywords": ["sieraden cadeauset", "sieraden set cadeau", "cadeauset dames"],
+        "meta": "Een sieraden cadeauset samenstellen? Combineer ketting, oorbellen & armband in één stijl. Tips voor de perfecte set — waterproof RVS, al vanaf €10 bij Tudor Gems.",
+        "outline": [
+            ("Waarom een cadeauset mooier is dan los", "Een bij elkaar passende set oogt luxueuzer en doordachter dan één los sieraad. Het lijkt duurder dan het is en laat zien dat je hebt nagedacht over de stijl van de ontvanger."),
+            ("De basis van een goede set: één stijl", "Kies één lijn: minimalistisch, romantisch (hartjes), of statement. Houd ook de kleur consistent — alles goud óf alles zilver — voor een samenhangend geheel."),
+            ("Welke stukken combineer je?", "De klassieke combinatie: een ketting + bijpassende oorbellen. Wil je het completer? Voeg een armband of ring toe. Drie stukken in dezelfde stijl maken een volwaardige set."),
+            ("Set op basis van de gelegenheid", "Verjaardag: een persoonlijke stijl die bij haar past. Moederdag: tijdloos en elegant. Valentijn: hartjes-thema. Stem de set af op het moment."),
+            ("Waarom RVS perfect is voor een cadeauset", "Een set draag je vaak samen en dagelijks. RVS is waterproof en verkleurt niet, dus de hele set blijft jarenlang op elkaar afgestemd mooi — geen los stuk dat eerder verkleurt."),
+            ("Maak het cadeau compleet", "Een mooie verpakking en een persoonlijk kaartje maken de set af. Combineer losse stukken zelf of kies een kant-en-klare set voor het gemak."),
+        ],
+        "cta_text": "Stel je eigen cadeauset samen",
+        "cta_url": "/collections/cadeau-ideeen",
+    },
+    {
+        "title": "Kruidvat waterproof sieraden vs RVS — wat is het verschil?",
+        "tags": "kruidvat waterproof sieraden, waterproof sieraden, rvs sieraden, vergelijking, kwaliteit",
+        "keywords": ["kruidvat waterproof sieraden", "waterproof sieraden vergelijking", "beste waterproof sieraden"],
+        "meta": "Kruidvat waterproof sieraden of RVS? Ontdek het echte verschil in materiaal, levensduur en waterbestendigheid — en welke sieraden écht niet verkleuren.",
+        "outline": [
+            ("Wat betekent 'waterproof' bij sieraden eigenlijk?", "Niet elk sieraad dat 'waterbestendig' heet, is écht waterdicht. Er is verschil tussen water-resistant (beperkt bestand) en volledig waterproof. Het materiaal bepaalt alles — niet het label."),
+            ("Waar let je op bij waterproof sieraden?", "De enige betrouwbare garantie is het materiaal: 316L roestvrij staal of titanium zijn van nature waterproof. Verguld of gecoat metaal is dat niet, ongeacht wat de verpakking belooft."),
+            ("Waarom RVS de standaard is voor waterproof", "316L roestvrij staal oxideert niet en tast niet aan door water, chloor, zout of zweet. Je kunt het dragen onder de douche, in zee en in het zwembad zonder verkleuring of roest."),
+            ("Let op gecoate of vergulde sieraden", "Sieraden met een dunne goud- of kleurlaag kunnen 'waterproof' heten, maar de coating slijt bij contact met water en zeep. Na verloop van tijd verkleuren ze alsnog. Kies daarom voor doorlegeerd RVS."),
+            ("Hoe herken je echte waterproof sieraden?", "Zoek naar '316L roestvrij staal' of 'stainless steel' in de productinformatie, plus een duidelijke belofte dat het niet verkleurt. Vage termen als 'waterproof coating' zijn een waarschuwingssignaal."),
+            ("De slimste keuze voor dagelijks dragen", "Wil je sieraden die je nooit hoeft af te doen — ook niet onder de douche of op het strand — kies dan volledig RVS. Bij Tudor Gems is alles 316L: waterproof, nikkelvrij en niet-verkleurend."),
+        ],
+        "cta_text": "Bekijk onze waterproof RVS sieraden",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "RVS armband dames goud — welke past bij jou?",
+        "tags": "rvs armband dames goud, gouden armband, armband dames, waterproof, rvs sieraden",
+        "keywords": ["rvs armband dames goud", "gouden armband dames", "armband goud waterproof"],
+        "meta": "Op zoek naar een gouden RVS armband voor dames? Ontdek welke stijl bij jou past — schakel, bangle of bedel. Waterproof, verkleurt nooit. Al vanaf €10 bij Tudor Gems.",
+        "outline": [
+            ("Waarom een gouden RVS armband?", "Een gouden armband geeft warmte en elegantie aan elke look. In RVS-uitvoering (PVD-gecoat goud) krijg je die gouden kleur zonder de nadelen: waterproof, verkleurt niet en betaalbaar."),
+            ("Schakelarmband: tijdloos en veelzijdig", "Een gouden schakelarmband past bij casual én chic. Van fijne schakels voor een subtiele look tot grovere schakels voor een statement — altijd elegant om de pols."),
+            ("Bangle: strak en minimalistisch", "Een gouden bangle is een gladde, gesloten of open ring om de pols. Perfect om te stapelen of solo te dragen. Minimalistisch en modern."),
+            ("Bedelarmband: persoonlijk en speels", "Een bedelarmband maak je helemaal van jezelf met bedels die iets betekenen. Een persoonlijke favoriet en een geliefd cadeau."),
+            ("Welke maat heb je nodig?", "Meet de omtrek van je pols en tel 1,5–2 cm op voor comfortabele bewegingsruimte. Verstelbare modellen passen vrijwel altijd — handig als cadeau."),
+            ("Waarom goud in RVS de slimste keuze is", "PVD-gecoat goud op 316L staal hecht veel sterker dan traditioneel vergulden. De gouden kleur blijft jaren mooi, ook na douchen, zwemmen en dagelijks dragen. Vanaf €10 bij Tudor Gems."),
+        ],
+        "cta_text": "Bekijk onze gouden RVS armbanden",
+        "cta_url": "/collections/armbanden",
+    },
 ]
 
 # ── SHOPIFY AUTH ─────────────────────────────────────────────────────
@@ -378,15 +458,22 @@ def build_article_html(topic):
 
 def upload_article(token, topic, body_html):
     url = f"https://{SHOP}/admin/api/{API_VERSION}/blogs/{BLOG_ID}/articles.json"
-    payload = {
-        "article": {
-            "title": topic["title"],
-            "author": AUTHOR,
-            "tags": topic["tags"],
-            "body_html": body_html,
-            "published": True,
-        }
+    article = {
+        "title": topic["title"],
+        "author": AUTHOR,
+        "tags": topic["tags"],
+        "body_html": body_html,
+        "published": True,
     }
+    # SEO meta description (metafield global.description_tag) indien aanwezig
+    if topic.get("meta"):
+        article["metafields"] = [{
+            "namespace": "global",
+            "key": "description_tag",
+            "type": "single_line_text_field",
+            "value": topic["meta"][:320],
+        }]
+    payload = {"article": article}
     r = requests.post(url, headers=api_headers(token), json=payload)
     return r
 
