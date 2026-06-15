@@ -20,7 +20,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -126,5 +127,10 @@
     "shopify_id": 1002401857868,
     "title": "Nepleer armband vs RVS armband \u2014 wat is de betere keuze?",
     "uploaded_at": "2026-05-04T11:10:00.311631"
+  },
+  "article_21": {
+    "shopify_id": 1004842713420,
+    "title": "Oorbellen die niet zweren \u2014 de oplossing voor gevoelige oren",
+    "uploaded_at": "2026-06-15T15:21:27.514896"
   }
 }
