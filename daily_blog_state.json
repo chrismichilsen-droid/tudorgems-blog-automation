@@ -21,7 +21,8 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -132,5 +133,10 @@
     "shopify_id": 1004842713420,
     "title": "Oorbellen die niet zweren \u2014 de oplossing voor gevoelige oren",
     "uploaded_at": "2026-06-15T15:21:27.514896"
+  },
+  "article_22": {
+    "shopify_id": 1004857327948,
+    "title": "Betaalbare sieraden die niet verkleuren \u2014 bestaat dat echt?",
+    "uploaded_at": "2026-06-16T14:22:24.462465"
   }
 }
