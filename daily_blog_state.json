@@ -27,7 +27,8 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -168,5 +169,10 @@
     "shopify_id": 1005066191180,
     "title": "Sieraden schoonmaken - zo doe je het goed (en wat je NIET moet doen)",
     "uploaded_at": "2026-06-25T11:45:00.641936"
+  },
+  "article_28": {
+    "shopify_id": 1005082902860,
+    "title": "Kunnen RVS sieraden roesten? Het eerlijke antwoord",
+    "uploaded_at": "2026-06-26T11:48:05.338387"
   }
 }
