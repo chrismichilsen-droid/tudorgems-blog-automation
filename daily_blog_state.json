@@ -30,7 +30,8 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -186,5 +187,10 @@
     "shopify_id": 1005101711692,
     "title": "Sieraden bewaren - zo blijven ze langer mooi",
     "uploaded_at": "2026-06-28T11:12:14.023002"
+  },
+  "article_31": {
+    "shopify_id": 1005113704780,
+    "title": "Geboortesteen sieraden - welke steen hoort bij jouw maand?",
+    "uploaded_at": "2026-06-29T13:12:02.304110"
   }
 }
