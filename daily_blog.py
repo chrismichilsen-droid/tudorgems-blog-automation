@@ -672,6 +672,48 @@ TOPICS = [
         "cta_text": "Bekijk onze zomercollectie",
         "cta_url": "/collections/alle-sieraden",
     },
+    {
+        "title": "Wat betekent gold plated? (14k en 18k uitgelegd)",
+        "tags": "gold plated, betekenis, 14k, 18k, verguld, rvs, uitleg",
+        "keywords": ["gold plated betekenis", "18k gold plated", "gold plated vs rvs"],
+        "outline": [
+            ("Wat gold plated precies betekent", "Gold plated is een basismetaal met een dun laagje echt goud erop. Het oogt als goud, maar de goudlaag is dun."),
+            ("Wat zeggen 14k en 18k?", "14k en 18k verwijzen naar de zuiverheid van de goudlaag: 18k is geler en zuiverder, 14k iets steviger. Het zegt niets over de dikte."),
+            ("Gold plated, verguld en gold filled: het verschil", "Verguld en gold plated zijn hetzelfde; gold filled heeft een veel dikkere laag. Alle drie anders dan massief goud."),
+            ("Waarom RVS met goudlaag langer mooi blijft", "Onze RVS sieraden hebben een duurzame goudlaag op robuust 316L staal: geen koper dat doorkomt en geen groene huid."),
+            ("Veelgestelde vragen", "Verkleurt gold plated? Op den duur ja. Is RVS beter? Voor dagelijks dragen wel: het verkleurt niet."),
+        ],
+        "cta_text": "Bekijk onze RVS gouden sieraden",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Waarom worden zilveren sieraden zwart? (en wat je eraan doet)",
+        "tags": "zilveren sieraden, zwart, aanslag, oxidatie, schoonmaken, rvs",
+        "keywords": ["zilveren sieraden zwart geworden", "sieraden zwart geworden", "zwarte aanslag sieraden"],
+        "outline": [
+            ("Waarom zilver zwart wordt", "Zilver reageert met zwavel in lucht, zweet en cosmetica. Dat heet oxidatie en geeft een donkere aanslag."),
+            ("Is het slecht voor je sieraad?", "Nee, het is oppervlakkig en gaat eraf. Maar het oogt dof en vraagt onderhoud."),
+            ("Zo poets je zwart geworden zilver", "Gebruik een zilverpoetsdoekje of lauw water met mild afwasmiddel. Vermijd schuurmiddel."),
+            ("Waarom RVS niet zwart wordt", "Roestvrij staal oxideert niet zoals zilver. Het houdt zijn kleur zonder poetsen, ook bij dagelijks dragen."),
+            ("Veelgestelde vragen", "Kan ik zwart zilver voorkomen? Droog bewaren en afdoen bij sporten. Heeft RVS dit ook? Nee."),
+        ],
+        "cta_text": "Bekijk onze onderhoudsvrije RVS sieraden",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Wat is 316L roestvrij staal? (en waarom het zo geschikt is voor sieraden)",
+        "tags": "316l, roestvrij staal, rvs, chirurgisch staal, hypoallergeen, materiaal",
+        "keywords": ["316l roestvrij staal sieraden", "316l sieraden", "wat is 316l staal"],
+        "outline": [
+            ("Wat 316L roestvrij staal is", "316L is een hoogwaardige staalsoort, ook wel chirurgisch staal genoemd, met chroom en molybdeen voor extra bescherming."),
+            ("Waarom 316L beter is dan gewoon RVS", "Het extra molybdeen maakt 316L beter bestand tegen zout, zweet en water dan standaard 304-staal."),
+            ("Waterproof, nikkelvrij en hypoallergeen", "316L verkleurt niet, roest niet en geeft nauwelijks nikkel af: ideaal voor de gevoelige huid en dagelijks dragen."),
+            ("Waarom wij voor 316L kiezen", "Al onze sieraden zijn van 316L, zodat je ze zorgeloos kunt dragen in de douche, het zwembad en de zee."),
+            ("Veelgestelde vragen", "Is 316L echt waterproof? Ja. Verkleurt het? Nee. Geschikt bij allergie? Ja, het is hypoallergeen."),
+        ],
+        "cta_text": "Ontdek onze 316L RVS collectie",
+        "cta_url": "/collections/alle-sieraden",
+    },
 ]
 
 # ── SHOPIFY AUTH ─────────────────────────────────────────────────────
