@@ -31,7 +31,8 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -192,5 +193,10 @@
     "shopify_id": 1005113704780,
     "title": "Geboortesteen sieraden - welke steen hoort bij jouw maand?",
     "uploaded_at": "2026-06-29T13:12:02.304110"
+  },
+  "article_32": {
+    "shopify_id": 1005135528268,
+    "title": "Sterrenbeeld sieraden - wat past bij jouw teken?",
+    "uploaded_at": "2026-06-30T11:47:37.466495"
   }
 }
