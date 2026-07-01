@@ -32,7 +32,8 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -198,5 +199,10 @@
     "shopify_id": 1005135528268,
     "title": "Sterrenbeeld sieraden - wat past bij jouw teken?",
     "uploaded_at": "2026-06-30T11:47:37.466495"
+  },
+  "article_33": {
+    "shopify_id": 1005145096524,
+    "title": "Letterketting en letterbedel - hoe kies je de jouwe?",
+    "uploaded_at": "2026-07-01T12:12:47.935599"
   }
 }
