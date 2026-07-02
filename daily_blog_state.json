@@ -33,7 +33,8 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -204,5 +205,10 @@
     "shopify_id": 1005145096524,
     "title": "Letterketting en letterbedel - hoe kies je de jouwe?",
     "uploaded_at": "2026-07-01T12:12:47.935599"
+  },
+  "article_34": {
+    "shopify_id": 1005162398028,
+    "title": "Ringmaat bepalen zonder ringmeter - zo doe je het thuis",
+    "uploaded_at": "2026-07-02T11:39:00.645312"
   }
 }
