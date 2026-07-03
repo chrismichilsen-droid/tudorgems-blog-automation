@@ -34,7 +34,8 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -210,5 +211,10 @@
     "shopify_id": 1005162398028,
     "title": "Ringmaat bepalen zonder ringmeter - zo doe je het thuis",
     "uploaded_at": "2026-07-02T11:39:00.645312"
+  },
+  "article_35": {
+    "shopify_id": 1005186089292,
+    "title": "Armbandmaat bepalen - zo meet je je pols",
+    "uploaded_at": "2026-07-03T11:37:43.739703"
   }
 }
