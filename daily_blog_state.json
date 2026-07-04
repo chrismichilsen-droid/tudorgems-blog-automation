@@ -35,7 +35,8 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -216,5 +217,10 @@
     "shopify_id": 1005186089292,
     "title": "Armbandmaat bepalen - zo meet je je pols",
     "uploaded_at": "2026-07-03T11:37:43.739703"
+  },
+  "article_36": {
+    "shopify_id": 1005200081228,
+    "title": "Welke ketting past bij welke halslijn?",
+    "uploaded_at": "2026-07-04T10:57:03.130886"
   }
 }
