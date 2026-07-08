@@ -39,7 +39,8 @@
     36,
     37,
     38,
-    39
+    39,
+    40
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -240,5 +241,10 @@
     "shopify_id": 1005234422092,
     "title": "Sieraden cadeau voor je beste vriendin - ideeen per type",
     "uploaded_at": "2026-07-07T11:58:52.552520"
+  },
+  "article_40": {
+    "shopify_id": 1005250019660,
+    "title": "Cadeau voor een moeder die alles al heeft",
+    "uploaded_at": "2026-07-08T11:09:40.935132"
   }
 }
