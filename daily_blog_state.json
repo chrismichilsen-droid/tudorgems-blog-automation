@@ -41,7 +41,8 @@
     38,
     39,
     40,
-    41
+    41,
+    42
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -252,5 +253,10 @@
     "shopify_id": 1005264798028,
     "title": "Enkelbandje betekenis - waar draag je het en wat zegt het?",
     "uploaded_at": "2026-07-09T12:11:15.360812"
+  },
+  "article_42": {
+    "shopify_id": 1005276135756,
+    "title": "Sieraden voor een bruiloft - wat draag je als gast?",
+    "uploaded_at": "2026-07-10T12:02:36.147017"
   }
 }
