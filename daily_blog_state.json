@@ -44,7 +44,8 @@
     41,
     42,
     43,
-    44
+    44,
+    45
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -270,5 +271,10 @@
     "shopify_id": 1005292323148,
     "title": "Wat betekent gold plated? (14k en 18k uitgelegd)",
     "uploaded_at": "2026-07-12T10:38:41.011049"
+  },
+  "article_45": {
+    "shopify_id": 1005322076492,
+    "title": "Waarom worden zilveren sieraden zwart? (en wat je eraan doet)",
+    "uploaded_at": "2026-07-13T12:12:40.880684"
   }
 }
