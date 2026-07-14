@@ -45,7 +45,8 @@
     42,
     43,
     44,
-    45
+    45,
+    46
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -276,5 +277,10 @@
     "shopify_id": 1005322076492,
     "title": "Waarom worden zilveren sieraden zwart? (en wat je eraan doet)",
     "uploaded_at": "2026-07-13T12:12:40.880684"
+  },
+  "article_46": {
+    "shopify_id": 1005348389196,
+    "title": "Wat is 316L roestvrij staal? (en waarom het zo geschikt is voor sieraden)",
+    "uploaded_at": "2026-07-14T10:52:14.450918"
   }
 }
