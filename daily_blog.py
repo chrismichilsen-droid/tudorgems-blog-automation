@@ -714,6 +714,409 @@ TOPICS = [
         "cta_text": "Ontdek onze 316L RVS collectie",
         "cta_url": "/collections/alle-sieraden",
     },
+    {'title': 'Klavertje vier sieraden — de betekenis van geluk om je hals',
+     'keywords': ['klavertje vier ketting', 'klaver sieraden betekenis', 'geluksketting'],
+     'tags': 'klavertje vier, klaver, geluk, betekenis, ketting, cadeau',
+     'cta_text': 'Ontdek onze gelukssieraden',
+     'cta_url': '/collections/kettingen',
+     'outline': [('De betekenis van het klavertje vier',
+                  'Elk blaadje staat voor iets: hoop, geloof, liefde en geluk. Al eeuwen een symbool '
+                  'dat je bij je draagt voor voorspoed.'),
+                 ('Waarom klaver sieraden zo populair zijn',
+                  'Van catwalks tot straatbeeld: het klavermotief is tijdloos, subtiel en past bij '
+                  'elke stijl.'),
+                 ('Klaver ketting, armband of oorbellen?',
+                  'Een ketting valt het meest op, een armband is subtieler en oorbellen maken de look '
+                  'af. Combineren kan ook.'),
+                 ('Het perfecte gelukscadeau',
+                  'Een klavertje vier zegt meer dan woorden: ideaal voor een examen, nieuwe baan, '
+                  'verjaardag of gewoon omdat je iemand geluk gunt.'),
+                 ('Veelgestelde vragen',
+                  'Verkleurt een RVS klaver ketting? Nee. Mag je ermee douchen? Ja, gewoon '
+                  'aanhouden.')]},
+    {'title': 'Kettingen layeren — welke lengtes combineer je?',
+     'keywords': ['kettingen layeren', 'kettingen combineren lengte', 'layering kettingen'],
+     'tags': 'layering, kettingen, combineren, stylen, lengte',
+     'cta_text': 'Shop kettingen om te layeren',
+     'cta_url': '/collections/kettingen',
+     'outline': [('Wat is layering?',
+                  'Meerdere kettingen in verschillende lengtes over elkaar dragen voor een gelaagde, '
+                  'moeiteloze look.'),
+                 ('De gouden regel: 5 cm verschil',
+                  'Kies lengtes die minimaal 5 centimeter verschillen, bijvoorbeeld 40, 45 en 50 cm, '
+                  'zodat ze niet in elkaar draaien.'),
+                 ('Combineer dun met statement',
+                  'Een fijne schakel, een hanger en één opvallende schakelketting: drie lagen is de '
+                  'sweet spot.'),
+                 ('Zo voorkom je klitten',
+                  'Kies kettingen met verschillende schakeltypes en sluit ze apart; RVS schakels '
+                  'klitten minder snel dan fijne zilveren kettinkjes.'),
+                 ('Veelgestelde vragen',
+                  'Hoeveel kettingen kun je layeren? Twee tot drie is ideaal. Mag goud met zilver? Ja, '
+                  'mixed metals is juist een trend.')]},
+    {'title': 'Schakelketting stylen — van casual tot chic',
+     'keywords': ['schakelketting stylen', 'schakelketting dames', 'chunky ketting combineren'],
+     'tags': 'schakelketting, stylen, chunky, trend, ketting',
+     'cta_text': 'Bekijk onze schakelkettingen',
+     'cta_url': '/collections/kettingen',
+     'outline': [('Waarom de schakelketting een klassieker is',
+                  "Van jaren '90 icoon tot moderne must-have: de schakelketting geeft elke outfit "
+                  'direct karakter.'),
+                 ('Casual: op een T-shirt of blouse',
+                  'Eén gouden schakelketting op een wit shirt is de makkelijkste chique look die er '
+                  'bestaat.'),
+                 ('Chic: layeren met fijne kettingen',
+                  'Combineer een chunky schakel met een fijn kettinkje met hanger voor contrast.'),
+                 ('Welke dikte past bij jou?',
+                  'Fijne schakels ogen subtiel en elegant, brede schakels maken een statement. Kies '
+                  'wat bij je stijl en gezichtsvorm past.'),
+                 ('Veelgestelde vragen',
+                  'Verkleurt een RVS schakelketting? Nee, ook niet bij dagelijks dragen. Kan hij nat '
+                  'worden? Ja, waterproof.')]},
+    {'title': "Statement ring dragen — zo maak je 'm het middelpunt",
+     'keywords': ['statement ring goud', 'statement ring dragen', 'grote ring stylen'],
+     'tags': 'statement ring, ringen, stylen, goud, trend',
+     'cta_text': 'Ontdek onze statement ringen',
+     'cta_url': '/collections/ringen',
+     'outline': [('Wat maakt een ring een statement ring?',
+                  'Groot, opvallend en met karakter: een statement ring trekt de aandacht naar je '
+                  'handen.'),
+                 ('Eén held, rustige rest',
+                  'Draag je statement ring solo of met hooguit één fijne ring per hand, zodat hij echt '
+                  'opvalt.'),
+                 ('Aan welke vinger?',
+                  'De wijs- of middelvinger geeft het meeste effect; de pink is de moderne, gedurfde '
+                  'keuze.'),
+                 ('Statement ring bij elke gelegenheid',
+                  'Op kantoor subtiel met een minimalistische outfit, in het weekend maximaal met '
+                  'kleur en print.'),
+                 ('Veelgestelde vragen',
+                  'Verkleurt een gouden RVS ring? Nee. Word je vinger groen? Niet bij 316L roestvrij '
+                  'staal.')]},
+    {'title': 'Earcuff dragen — zo zit hij vast (zonder gaatje)',
+     'keywords': ['earcuff dragen', 'earcuff goud', 'earcuff zonder gaatje'],
+     'tags': 'earcuff, oorbellen, zonder gaatje, trend, goud',
+     'cta_text': 'Shop earcuffs en oorbellen',
+     'cta_url': '/collections/oorbellen',
+     'outline': [('Wat is een earcuff?',
+                  'Een oorsieraad dat je om de rand van je oor klemt: geen gaatje nodig, wel direct '
+                  'effect.'),
+                 ('Zo zet je hem goed vast',
+                  'Schuif de cuff over het dunste deel van je oorrand en schuif hem daarna iets naar '
+                  'beneden waar het kraakbeen dikker is.'),
+                 ('Doet een earcuff pijn?',
+                  'Nee, als hij goed zit voel je hem nauwelijks. Knijp hem heel licht aan voor meer '
+                  'grip, nooit te strak.'),
+                 ('De curated ear: combineren met oorbellen',
+                  'Mix een earcuff met een hoop en een stud voor het populaire gelaagde oor, ook met '
+                  'maar één gaatje.'),
+                 ('Veelgestelde vragen',
+                  'Valt een earcuff eraf? Zelden, als hij goed geplaatst is. Kan iedereen hem dragen? '
+                  'Ja, gaatje of niet.')]},
+    {'title': 'Ear stack samenstellen — meerdere oorbellen combineren',
+     'keywords': ['ear stack', 'meerdere oorbellen combineren', 'oorbellen stapelen'],
+     'tags': 'ear stack, curated ear, oorbellen, combineren, trend',
+     'cta_text': 'Bekijk onze oorbellen',
+     'cta_url': '/collections/oorbellen',
+     'outline': [('Wat is een ear stack?',
+                  'Meerdere oorbellen per oor die samen één doordachte look vormen: van studs tot '
+                  'hoops en cuffs.'),
+                 ('Begin met een basis',
+                  'Kies één blikvanger, bijvoorbeeld een middelgrote hoop, en bouw daaromheen met '
+                  'kleinere studs.'),
+                 ('Mix vormen, houd één kleur aan',
+                  'Hartjes, balletjes en ringetjes mogen door elkaar; in één metaalkleur blijft het '
+                  'geheel rustig.'),
+                 ('Ook met één of twee gaatjes',
+                  'Met earcuffs creëer je een volle stack zonder extra gaatjes te hoeven schieten.'),
+                 ('Veelgestelde vragen',
+                  'Hoeveel oorbellen per oor? Twee tot vier oogt het mooist. Kun je ermee slapen? '
+                  'Liever niet met grote hoops.')]},
+    {'title': 'Sieraden en zonnebrandcrème — kan dat samen?',
+     'keywords': ['sieraden zonnebrandcreme', 'sieraden zomer verkleuren', 'sieraden op het strand'],
+     'tags': 'zomer, zonnebrand, waterproof, verzorging, strand',
+     'cta_text': 'Shop zomerproof sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Waarom zonnebrand en sieraden lastig samengaan',
+                  'Crème bevat oliën en filters die op sieraden een dof laagje achterlaten en bij '
+                  'sommige metalen verkleuring versnellen.'),
+                 ('RVS heeft er geen last van',
+                  '316L roestvrij staal reageert niet met zonnebrandcrème: hooguit wordt het even dof '
+                  'van de vette laag.'),
+                 ('Zo houd je ze stralend',
+                  'Smeer eerst, laat intrekken en doe daarna je sieraden om. Doffe plekken? Even '
+                  'afspoelen en droogwrijven.'),
+                 ('Wat je beter thuislaat',
+                  'Gold plated en goedkope legeringen verkleuren wel door crème, chloor en zout: die '
+                  'laat je op strandvakantie thuis.'),
+                 ('Veelgestelde vragen',
+                  'Mag je met RVS sieraden de zee in? Ja. En het zwembad? Ook, chloor doet 316L '
+                  'niets.')]},
+    {'title': 'Sieraden dragen tijdens het sporten — verstandig of niet?',
+     'keywords': ['sieraden sporten', 'sieraden zweet verkleuren', 'sieraden gym'],
+     'tags': 'sport, gym, zweet, waterproof, rvs',
+     'cta_text': 'Bekijk onze sportproof sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Zweet en sieraden: wat gebeurt er?',
+                  'Zweet is licht zuur en zout: funest voor gold plated en goedkope metalen, maar 316L '
+                  'RVS kan er prima tegen.'),
+                 ('Welke sieraden kun je aanhouden?',
+                  'Fijne kettingen, kleine studs en gladde ringen zitten niet in de weg en kunnen '
+                  'gewoon mee de gym in.'),
+                 ('Wat doe je beter af?',
+                  'Grote hoops, bedelarmbanden en ringen met uitstekende details: die blijven haken '
+                  'achter apparaten en kleding.'),
+                 ('Na het sporten: 10 seconden onderhoud',
+                  'Spoel je sieraden kort af of veeg ze droog, dan blijft ook de glans op lange '
+                  'termijn perfect.'),
+                 ('Veelgestelde vragen',
+                  'Verkleurt RVS door zweet? Nee. Mag een ketting mee onder de douche na de training? '
+                  'Ja.')]},
+    {'title': 'Goud of zilver — welke kleur past bij jouw huidtint?',
+     'keywords': ['goud of zilver huidtint',
+                  'welke sieraden passen bij mij',
+                  'warme koele ondertoon sieraden'],
+     'tags': 'goud, zilver, huidtint, ondertoon, stijladvies',
+     'cta_text': 'Shop goud en zilver',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('De ondertoon-check',
+                  'Kijk naar de aderen op je pols: groenig betekent een warme ondertoon, blauwig een '
+                  'koele, allebei is neutraal.'),
+                 ('Warme ondertoon: goud',
+                  'Warme huidtinten lichten op bij goudkleurige sieraden: het geeft een zachte gloed.'),
+                 ('Koele ondertoon: zilver',
+                  'Koele huidtinten komen het best tot hun recht bij zilverkleur: fris en helder.'),
+                 ('Neutraal? Mix gerust',
+                  'Met een neutrale ondertoon staat alles, en mixed metals dragen is bovendien '
+                  'helemaal van nu.'),
+                 ('Veelgestelde vragen',
+                  'Is er een verkeerde keuze? Nee, draag wat jij mooi vindt. Verkleuren beide kleuren '
+                  'RVS niet? Klopt, allebei kleurvast.')]},
+    {'title': 'Goud en zilver combineren — mag dat? (mixed metals gids)',
+     'keywords': ['goud en zilver combineren', 'mixed metals sieraden', 'twee kleuren sieraden dragen'],
+     'tags': 'mixed metals, goud, zilver, combineren, trend',
+     'cta_text': 'Ontdek onze collectie in goud en zilver',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('De oude regel is dood',
+                  "Vroeger 'mocht' je metalen niet mengen, nu is mixed metals juist een teken van "
+                  'stijl.'),
+                 ('Kies een hoofdkleur',
+                  'Laat één kleur domineren (bijvoorbeeld 70% goud) en gebruik de ander als accent, zo '
+                  'oogt het bewust.'),
+                 ('Bicolor sieraden als bruggetje',
+                  'Een sieraad met beide kleuren erin verbindt je gouden en zilveren items '
+                  'moeiteloos.'),
+                 ('Herhaal de mix',
+                  'Draag je een gemixte ketting? Herhaal het dan ook in je ringen of oorbellen, dan '
+                  'klopt het plaatje.'),
+                 ('Veelgestelde vragen',
+                  'Staat mixed metals bij elke huidtint? Ja. Kunnen beide kleuren tegen water? Bij RVS '
+                  'wel.')]},
+    {'title': 'Wat is PVD coating? (en waarom je sieraad zo lang goud blijft)',
+     'keywords': ['pvd coating sieraden', 'pvd goud', 'pvd vs gold plated'],
+     'tags': 'pvd, coating, goud, kwaliteit, materiaal',
+     'cta_text': 'Shop PVD-gecoate sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('PVD in gewone taal',
+                  "Physical Vapor Deposition: de goudlaag wordt in een vacuüm op het staal 'gedampt' "
+                  'en hecht op moleculair niveau.'),
+                 ('Waarom het zoveel sterker is dan gold plated',
+                  'Een PVD-laag is tot tien keer harder en slijtvaster dan traditioneel galvanisch '
+                  'verguldsel.'),
+                 ('Waterproof en kleurvast',
+                  'Douchen, zwemmen, sporten: een PVD-coating op 316L staal laat niet los en verkleurt '
+                  'niet.'),
+                 ('Hoe je PVD herkent',
+                  "Betaalbare sieraden die expliciet 'waterproof' en 'verkleurt niet' beloven, zijn "
+                  'vrijwel altijd PVD op RVS.'),
+                 ('Veelgestelde vragen',
+                  'Slijt PVD ooit? Bij intensief dagelijks dragen pas na jaren. Is het nikkelvrij? Ja, '
+                  'veilig voor de gevoelige huid.')]},
+    {'title': 'Action en Zeeman sieraden — waarom verkleuren ze zo snel?',
+     'keywords': ['action sieraden verkleuren',
+                  'goedkope sieraden verkleuren',
+                  'zeeman sieraden kwaliteit'],
+     'tags': 'action, zeeman, goedkoop, verkleuren, vergelijking',
+     'cta_text': 'Bekijk betaalbare sieraden die wél mooi blijven',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Waarom budget-sieraden snel verkleuren',
+                  'Ze zijn vaak gemaakt van legeringen met koper of zink en een flinterdun kleurlaagje '
+                  'dat binnen weken slijt.'),
+                 ('Groene vingers en jeukende oren',
+                  'Koper oxideert op je huid (groene vinger) en nikkel in goedkope legeringen '
+                  'veroorzaakt irritatie.'),
+                 ('Goedkoop is uiteindelijk duurkoop',
+                  'Drie keer een ketting van 4 euro vervangen kost meer dan één RVS ketting die jaren '
+                  'meegaat.'),
+                 ('Het betaalbare alternatief',
+                  '316L RVS sieraden kosten net iets meer, maar verkleuren niet, roesten niet en zijn '
+                  'nikkelvrij.'),
+                 ('Veelgestelde vragen',
+                  'Kun je budget-sieraden waterproof maken? Nee, een laklaagje helpt hooguit even. Wat '
+                  'is het verschil met RVS? Massief kleurvast materiaal in plaats van een laagje.')]},
+    {'title': 'Hoe weet je of een sieraad nikkelvrij is?',
+     'keywords': ['nikkelvrij sieraad herkennen',
+                  'nikkelvrije sieraden',
+                  'nikkel allergie sieraden check'],
+     'tags': 'nikkelvrij, allergie, gevoelige huid, hypoallergeen, check',
+     'cta_text': 'Shop nikkelvrije RVS sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Waarom nikkel het probleem is',
+                  "Zo'n 10 tot 15 procent van de vrouwen reageert allergisch op nikkel: jeuk, rode "
+                  'huid en blaasjes.'),
+                 ('Check het materiaal, niet de belofte',
+                  "Zoek naar 316L roestvrij staal, titanium of echt goud; 'hypoallergeen' zonder "
+                  'materiaalvermelding zegt weinig.'),
+                 ('De signalen van nikkel',
+                  'Jeuk binnen een paar uur, een donkere afdruk op de huid of een metaalgeur op je '
+                  'vingers verraden goedkope legeringen.'),
+                 ('Waarom 316L veilig is',
+                  'In 316L zit nikkel chemisch gebonden in het staal, waardoor het praktisch niet '
+                  'vrijkomt op je huid: veilig, ook bij allergie.'),
+                 ('Veelgestelde vragen',
+                  'Is RVS 100% nikkelvrij? Het geeft vrijwel geen nikkel af en valt ruim binnen de '
+                  'EU-norm. Kan ik er dag en nacht mee? Ja.')]},
+    {'title': 'Ketting in de knoop — zo krijg je hem los zonder schade',
+     'keywords': ['ketting knoop eruit halen', 'ketting klit oplossen', 'ketting in de war'],
+     'tags': 'knoop, klit, onderhoud, tips, ketting',
+     'cta_text': 'Bekijk onze kettingen',
+     'cta_url': '/collections/kettingen',
+     'outline': [('Stap 1: leg de ketting plat neer',
+                  'Werk op een gladde, lichte ondergrond en open het slotje: dat geeft de knoop '
+                  'ruimte.'),
+                 ('Stap 2: gebruik twee naalden',
+                  'Steek twee speldjes of naalden in het hart van de knoop en beweeg ze zachtjes uit '
+                  'elkaar: nooit trekken.'),
+                 ('Hardnekkige knoop? Babyolie of talkpoeder',
+                  'Een druppeltje babyolie laat de schakels langs elkaar glijden; daarna afspoelen met '
+                  'lauw water en drogen.'),
+                 ('Zo voorkom je knopen voortaan',
+                  'Sluit kettingen voor het opbergen, hang ze op of bewaar elke ketting apart in een '
+                  'zakje.'),
+                 ('Veelgestelde vragen',
+                  'Kan olie kwaad bij RVS? Nee, gewoon afspoelen. Wat bij een fijn kettinkje? Extra '
+                  'geduld en licht werken, nooit forceren.')]},
+    {'title': 'Bedelarmband samenstellen — kies bedels met betekenis',
+     'keywords': ['bedelarmband samenstellen', 'bedels betekenis', 'charm armband maken'],
+     'tags': 'bedels, charms, bedelarmband, betekenis, personaliseren',
+     'cta_text': 'Ontdek onze bedels en charms',
+     'cta_url': '/collections/charms',
+     'outline': [('Begin met de basisarmband',
+                  'Kies een stevige RVS schakelarmband als basis: die kan het gewicht van bedels aan '
+                  'en verkleurt niet.'),
+                 ('Kies bedels die iets vertellen',
+                  'Een hartje voor liefde, een klavertje voor geluk, een letter voor een dierbare: zo '
+                  'wordt je armband een verhaal.'),
+                 ('Balans: 3 tot 5 bedels',
+                  'Verdeel bedels gelijkmatig en houd ruimte over; een half gevulde armband oogt '
+                  'bewuster dan een overvolle.'),
+                 ('Het ultieme personaliseerbare cadeau',
+                  'Geef een armband met één betekenisvolle bedel en laat de ontvanger hem zelf verder '
+                  'aanvullen.'),
+                 ('Veelgestelde vragen',
+                  'Kunnen bedels tegen water? RVS bedels wel. Kun je later bedels bijkopen? Ja, dat is '
+                  'juist het idee.')]},
+    {'title': 'Sieraden cadeau onder de €25 — de mooiste ideeën',
+     'keywords': ['cadeau onder 25 euro vrouw',
+                  'goedkoop sieraden cadeau',
+                  'klein cadeautje voor haar'],
+     'tags': 'cadeau, budget, onder 25 euro, cadeautip, betaalbaar',
+     'cta_text': 'Shop cadeaus onder de €25',
+     'cta_url': '/collections/cadeau-ideeen',
+     'outline': [('Klein budget, groot effect',
+                  'Een goed gekozen sieraad voelt persoonlijk en luxe, ook onder de 25 euro: het gaat '
+                  'om de betekenis.'),
+                 ('Voor de minimalist',
+                  'Fijne gouden studs of een subtiele ring: tijdloos, dagelijks draagbaar en altijd '
+                  'raak.'),
+                 ('Voor de trendsetter',
+                  'Een earcuff, klaverketting of chunky ring sluit aan op de trends van dit moment.'),
+                 ('Maak het persoonlijk',
+                  'Kies een symbool dat past: een hartje, geluksklaver of geboortesteenkleur maakt het '
+                  "cadeau van 'leuk' naar 'voor mij'."),
+                 ('Veelgestelde vragen',
+                  'Blijft een betaalbaar RVS sieraad mooi? Ja, het verkleurt niet. Zit er een '
+                  'cadeauverpakking bij? Check de productpagina.')]},
+    {'title': 'Old money sieraden stijl — tijdloze elegantie zonder de prijs',
+     'keywords': ['old money sieraden', 'old money stijl accessoires', 'tijdloze sieraden'],
+     'tags': 'old money, stijl, elegant, tijdloos, trend',
+     'cta_text': 'Shop tijdloze klassiekers',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Wat is de old money look?',
+                  'Stille luxe: verfijnd, tijdloos en nooit schreeuwerig. Denk kleine gouden hoops, '
+                  'een fijne ketting en één elegante ring.'),
+                 ('Minder is meer',
+                  'Maximaal drie subtiele sieraden tegelijk: de kracht zit in eenvoud en kwaliteit van '
+                  'afwerking.'),
+                 ('De old money essentials',
+                  'Kleine hoops, een dunne schakelarmband, een zegelring en een fijne ketting: daarmee '
+                  'bouw je elke look.'),
+                 ('Duur ogen zonder duur te zijn',
+                  'Gouden RVS sieraden hebben dezelfde warme glans als echt goud, maar dan zonder het '
+                  'prijskaartje en zonder verkleuren.'),
+                 ('Veelgestelde vragen',
+                  'Welke kleur past bij old money? Vooral goud. Kan het naar kantoor? Juist: het ís de '
+                  'kantoorstijl.')]},
+    {'title': 'Sieraden in de sauna — kan dat kwaad?',
+     'keywords': ['sieraden sauna', 'sieraden afdoen sauna', 'rvs sieraden hitte'],
+     'tags': 'sauna, hitte, waterproof, verzorging, tips',
+     'cta_text': 'Bekijk onze RVS sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Het echte risico: hitte op je huid',
+                  'Metaal warmt in de sauna snel op en kan onaangenaam heet worden op de huid: dáárom '
+                  'doe je sieraden af, niet vanwege schade.'),
+                 ('Kan RVS tegen de sauna?',
+                  'Ja, 316L roestvrij staal kan probleemloos tegen hitte, stoom en vocht: het roest of '
+                  'verkleurt er niet van.'),
+                 ('Wat je écht moet afdoen',
+                  'Gold plated sieraden en sieraden met steentjes op lijm: hitte versnelt slijtage van '
+                  'laagjes en lijm.'),
+                 ('Praktische saunaroutine',
+                  'Doe sieraden af in de kleedkamer en bewaar ze in een klein zakje in je locker, dan '
+                  'raak je niets kwijt.'),
+                 ('Veelgestelde vragen',
+                  'Vergeten af te doen? Geen paniek, spoel ze na met lauw water. Geldt dit ook voor '
+                  'het stoombad? Zelfde verhaal.')]},
+    {'title': 'Wat zeg je met een sieraad? De betekenis achter het cadeau',
+     'keywords': ['sieraad cadeau betekenis', 'ketting geven betekenis', 'wat betekent sieraden geven'],
+     'tags': 'betekenis, cadeau, symboliek, liefde, vriendschap',
+     'cta_text': 'Vind een cadeau met betekenis',
+     'cta_url': '/collections/cadeau-ideeen',
+     'outline': [('Waarom een sieraad meer zegt dan woorden',
+                  'Een sieraad wordt elke dag gedragen en gezien: je geeft letterlijk iets blijvends '
+                  'mee.'),
+                 ('De symboliek per sieraad',
+                  'Een ketting draag je bij je hart (liefde), een armband staat voor verbondenheid en '
+                  'een ring voor belofte.'),
+                 ('Symbolen en hun boodschap',
+                  'Hartje = liefde, klavertje = geluk, zonnetje = positiviteit, letter = persoonlijke '
+                  'band.'),
+                 ('Voor elke relatie het juiste cadeau',
+                  'Voor je vriendin, moeder, zus of beste vriendin: kies het symbool dat jullie band '
+                  'vangt.'),
+                 ('Veelgestelde vragen',
+                  'Is een sieraad te persoonlijk als eerste cadeau? Een subtiel sieraad niet. Wat als '
+                  'het niet past? Kettingen en armbanden zijn maatloos veilig.')]},
+    {'title': 'Festival sieraden — wat draag je (en wat laat je thuis)?',
+     'keywords': ['festival sieraden', 'sieraden festival outfit', 'waterproof sieraden festival'],
+     'tags': 'festival, zomer, waterproof, outfit, tips',
+     'cta_text': 'Shop festivalproof sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Festivalproof = waterproof',
+                  'Zon, zweet, regen en glitter: kies sieraden die daar tegen kunnen, zoals 316L RVS '
+                  'dat niet verkleurt.'),
+                 ('Meer is meer (voor één keer)',
+                  'Op een festival mag het: stapel armbanden, layer kettingen en maak je ear stack '
+                  'compleet.'),
+                 ('Wat je thuislaat',
+                  'Dure of dierbare sieraden en alles met kleine steentjes: verlies op een '
+                  'festivalterrein is definitief.'),
+                 ('Praktische tips',
+                  "Draag ringen iets strakker (vingers slinken bij warmte 's avonds), en check slotjes "
+                  'voordat je gaat crowdsurfen.'),
+                 ('Veelgestelde vragen',
+                  'Regen en modder? RVS overleeft alles, thuis even afspoelen. Glitter eraf krijgen? '
+                  'Lauw water en een zachte doek.')]},
 ]
 
 # ── SHOPIFY AUTH ─────────────────────────────────────────────────────
