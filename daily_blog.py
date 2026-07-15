@@ -714,6 +714,26 @@ TOPICS = [
         "cta_text": "Ontdek onze 316L RVS collectie",
         "cta_url": "/collections/alle-sieraden",
     },
+    {'title': 'Lucardi sieraden waterproof? De eerlijke vergelijking met RVS',
+     'keywords': ['lucardi sieraden waterproof', 'lucardi waterproof', 'lucardi sieraden verkleuren'],
+     'tags': 'lucardi, vergelijking, waterproof, rvs, merken',
+     'cta_text': 'Bekijk onze waterproof RVS sieraden',
+     'cta_url': '/collections/alle-sieraden',
+     'outline': [('Wat verkoopt Lucardi eigenlijk?',
+                  'Lucardi verkoopt vooral 925 zilver, gold plated en fashion-sieraden. Een deel is '
+                  'waterbestendig, maar lang niet alles: het verschilt per lijn en materiaal.'),
+                 ('Zijn Lucardi sieraden waterproof?',
+                  'Sommige collecties wel, veel niet. Zilver wordt dof van water en zweet, gold plated '
+                  "slijt. Let op: 'waterbestendig' is niet hetzelfde als volledig waterproof."),
+                 ('RVS 316L: waar het verschil zit',
+                  'Roestvrij staal verkleurt niet, roest niet en mag douche, zee en zwembad in. Geen '
+                  'speciale coating of onderhoud nodig: het materiaal zelf is waterproof.'),
+                 ('Prijs en kwaliteit vergeleken',
+                  'De prijzen zijn vergelijkbaar (10 tot 40 euro), maar een RVS sieraad gaat zonder '
+                  'onderhoud jaren mee terwijl plated laagjes langzaam slijten.'),
+                 ('Veelgestelde vragen',
+                  'Verkleurt Lucardi goud? Gold plated kan slijten bij dagelijks dragen. Wat is het '
+                  'beste betaalbare alternatief? 316L RVS: waterproof, hypoallergeen en kleurvast.')]},
     {'title': 'Klavertje vier sieraden — de betekenis van geluk om je hals',
      'keywords': ['klavertje vier ketting', 'klaver sieraden betekenis', 'geluksketting'],
      'tags': 'klavertje vier, klaver, geluk, betekenis, ketting, cadeau',
