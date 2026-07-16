@@ -738,7 +738,7 @@ TOPICS = [
      'keywords': ['klavertje vier ketting', 'klaver sieraden betekenis', 'geluksketting'],
      'tags': 'klavertje vier, klaver, geluk, betekenis, ketting, cadeau',
      'cta_text': 'Ontdek onze gelukssieraden',
-     'cta_url': '/collections/kettingen',
+     'cta_url': '/collections/klavertje-vier-sieraden',
      'outline': [('De betekenis van het klavertje vier',
                   'Elk blaadje staat voor iets: hoop, geloof, liefde en geluk. Al eeuwen een symbool '
                   'dat je bij je draagt voor voorspoed.'),
