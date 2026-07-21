@@ -52,7 +52,8 @@
     49,
     50,
     51,
-    52
+    52,
+    53
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -318,5 +319,10 @@
     "shopify_id": 1005441614156,
     "title": "Earcuff dragen \u2014 zo zit hij vast (zonder gaatje)",
     "uploaded_at": "2026-07-20T11:51:16.333603"
+  },
+  "article_53": {
+    "shopify_id": 1005454590284,
+    "title": "Ear stack samenstellen \u2014 meerdere oorbellen combineren",
+    "uploaded_at": "2026-07-21T11:12:32.444716"
   }
 }
