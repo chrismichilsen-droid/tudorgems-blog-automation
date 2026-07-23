@@ -54,7 +54,8 @@
     51,
     52,
     53,
-    54
+    54,
+    55
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -330,5 +331,10 @@
     "shopify_id": 1005471990092,
     "title": "Sieraden en zonnebrandcr\u00e8me \u2014 kan dat samen?",
     "uploaded_at": "2026-07-22T11:13:24.680760"
+  },
+  "article_55": {
+    "shopify_id": 1005508723020,
+    "title": "Sieraden dragen tijdens het sporten \u2014 verstandig of niet?",
+    "uploaded_at": "2026-07-23T11:15:22.267979"
   }
 }
