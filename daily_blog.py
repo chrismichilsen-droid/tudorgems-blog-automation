@@ -1169,7 +1169,7 @@ def build_article_html(topic):
 
     html += f'<h2>Ontdek de collectie</h2>\n'
     html += f'<p>Bekijk onze <a href="{topic["cta_url"]}">{topic["cta_text"].lower()}</a> — '
-    html += f"RVS sieraden van €10 tot €40, gratis verzending binnen Nederland.</p>\n"
+    html += f"RVS sieraden van €10 tot €40, gratis verzending vanaf €35.</p>\n"
 
     return html
 
