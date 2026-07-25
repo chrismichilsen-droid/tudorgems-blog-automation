@@ -56,7 +56,8 @@
     53,
     54,
     55,
-    56
+    56,
+    57
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -342,5 +343,10 @@
     "shopify_id": 1005520716108,
     "title": "Goud of zilver \u2014 welke kleur past bij jouw huidtint?",
     "uploaded_at": "2026-07-24T11:06:14.845979"
+  },
+  "article_57": {
+    "shopify_id": 1005543784780,
+    "title": "Goud en zilver combineren \u2014 mag dat? (mixed metals gids)",
+    "uploaded_at": "2026-07-25T10:38:51.402183"
   }
 }
