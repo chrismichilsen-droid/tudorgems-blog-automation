@@ -57,7 +57,8 @@
     54,
     55,
     56,
-    57
+    57,
+    58
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -348,5 +349,10 @@
     "shopify_id": 1005543784780,
     "title": "Goud en zilver combineren \u2014 mag dat? (mixed metals gids)",
     "uploaded_at": "2026-07-25T10:38:51.402183"
+  },
+  "article_58": {
+    "shopify_id": 1005555319116,
+    "title": "Wat is PVD coating? (en waarom je sieraad zo lang goud blijft)",
+    "uploaded_at": "2026-07-26T10:47:18.228450"
   }
 }
