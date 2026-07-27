@@ -58,7 +58,8 @@
     55,
     56,
     57,
-    58
+    58,
+    59
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -354,5 +355,10 @@
     "shopify_id": 1005555319116,
     "title": "Wat is PVD coating? (en waarom je sieraad zo lang goud blijft)",
     "uploaded_at": "2026-07-26T10:47:18.228450"
+  },
+  "article_59": {
+    "shopify_id": 1005668565324,
+    "title": "Action en Zeeman sieraden \u2014 waarom verkleuren ze zo snel?",
+    "uploaded_at": "2026-07-27T12:31:32.297199"
   }
 }
