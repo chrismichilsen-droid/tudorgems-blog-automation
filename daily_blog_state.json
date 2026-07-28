@@ -59,7 +59,8 @@
     56,
     57,
     58,
-    59
+    59,
+    60
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -360,5 +361,10 @@
     "shopify_id": 1005668565324,
     "title": "Action en Zeeman sieraden \u2014 waarom verkleuren ze zo snel?",
     "uploaded_at": "2026-07-27T12:31:32.297199"
+  },
+  "article_60": {
+    "shopify_id": 1005704577356,
+    "title": "Hoe weet je of een sieraad nikkelvrij is?",
+    "uploaded_at": "2026-07-28T11:23:34.871271"
   }
 }
