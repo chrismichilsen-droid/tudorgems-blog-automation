@@ -60,7 +60,8 @@
     57,
     58,
     59,
-    60
+    60,
+    61
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -366,5 +367,10 @@
     "shopify_id": 1005704577356,
     "title": "Hoe weet je of een sieraad nikkelvrij is?",
     "uploaded_at": "2026-07-28T11:23:34.871271"
+  },
+  "article_61": {
+    "shopify_id": 1005720600908,
+    "title": "Ketting in de knoop \u2014 zo krijg je hem los zonder schade",
+    "uploaded_at": "2026-07-29T11:30:03.897910"
   }
 }
