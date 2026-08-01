@@ -63,7 +63,8 @@
     60,
     61,
     62,
-    63
+    63,
+    64
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -384,5 +385,10 @@
     "shopify_id": 1005759856972,
     "title": "Sieraden cadeau onder de \u20ac25 \u2014 de mooiste idee\u00ebn",
     "uploaded_at": "2026-07-31T11:32:14.389036"
+  },
+  "article_64": {
+    "shopify_id": 1005768606028,
+    "title": "Old money sieraden stijl \u2014 tijdloze elegantie zonder de prijs",
+    "uploaded_at": "2026-08-01T10:46:47.600484"
   }
 }
