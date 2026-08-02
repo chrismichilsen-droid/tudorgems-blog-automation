@@ -64,7 +64,8 @@
     61,
     62,
     63,
-    64
+    64,
+    65
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -390,5 +391,10 @@
     "shopify_id": 1005768606028,
     "title": "Old money sieraden stijl \u2014 tijdloze elegantie zonder de prijs",
     "uploaded_at": "2026-08-01T10:46:47.600484"
+  },
+  "article_65": {
+    "shopify_id": 1005776470348,
+    "title": "Sieraden in de sauna \u2014 kan dat kwaad?",
+    "uploaded_at": "2026-08-02T10:44:34.172244"
   }
 }
