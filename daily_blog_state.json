@@ -65,7 +65,8 @@
     62,
     63,
     64,
-    65
+    65,
+    66
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -396,5 +397,10 @@
     "shopify_id": 1005776470348,
     "title": "Sieraden in de sauna \u2014 kan dat kwaad?",
     "uploaded_at": "2026-08-02T10:44:34.172244"
+  },
+  "article_66": {
+    "shopify_id": 1005794984268,
+    "title": "Wat zeg je met een sieraad? De betekenis achter het cadeau",
+    "uploaded_at": "2026-08-03T12:31:16.356083"
   }
 }
