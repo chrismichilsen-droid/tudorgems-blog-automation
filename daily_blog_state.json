@@ -66,7 +66,8 @@
     63,
     64,
     65,
-    66
+    66,
+    67
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -402,5 +403,10 @@
     "shopify_id": 1005794984268,
     "title": "Wat zeg je met een sieraad? De betekenis achter het cadeau",
     "uploaded_at": "2026-08-03T12:31:16.356083"
+  },
+  "article_67": {
+    "shopify_id": 1005822345548,
+    "title": "Festival sieraden \u2014 wat draag je (en wat laat je thuis)?",
+    "uploaded_at": "2026-08-04T11:29:33.610347"
   }
 }
