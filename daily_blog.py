@@ -1137,6 +1137,204 @@ TOPICS = [
                  ('Veelgestelde vragen',
                   'Regen en modder? RVS overleeft alles, thuis even afspoelen. Glitter eraf krijgen? '
                   'Lauw water en een zachte doek.')]},
+
+    # ── Toegevoegd 30-08-2026, gekozen op Search Console-vertoningen ──────
+    {
+        "title": "Kan goud tegen water? (en zilver, gold plated en RVS)",
+        "tags": "waterproof, goud, zilver, gold plated, rvs sieraden, onderhoud",
+        "keywords": ["kan goud tegen water", "kan zilver tegen zeewater", "kan gold plated tegen water"],
+        "meta": "Kan goud tegen water? En zilver, gold plated of RVS? Per materiaal uitgelegd wat water, chloor en zeewater ermee doen.",
+        "outline": [
+            ("Massief goud: ja, maar niet zorgeloos", "Puur goud roest niet en loopt niet aan. De legering eromheen wel: 14 en 18 karaats goud bevat koper en zilver, en die reageren op chloor en zout. Na de zee of het zwembad afspoelen met lauw water is genoeg."),
+            ("Sterling zilver: nee, niet langdurig", "Sterling zilver (925) loopt aan door zwavel in lucht, zweet en water. Het wordt dof en uiteindelijk zwart. Poetsen helpt, maar het komt terug. Zeewater versnelt het proces flink."),
+            ("Gold plated: de laag is het probleem", "Bij verguld sieraad zit een dun laagje goud op een goedkoper metaal. Water, zeep en zweet slijten die laag, en zodra hij doorlaat komt het metaal eronder bloot. Dan zie je verkleuring — en soms een groene vinger."),
+            ("Roestvrij staal: wel zorgeloos", "Chirurgisch roestvrij staal oxideert niet en reageert niet op water, chloor of zout. Het materiaal is door en door hetzelfde, dus er is geen laagje dat kan slijten. Douchen, zwemmen en sporten kan gewoon."),
+            ("Wat doet zeewater precies?", "Zout versnelt corrosie bij metalen die daar gevoelig voor zijn. Voor zilver en verguld is de zee de zwaarste test die er is. Voor roestvrij staal maakt het niets uit — afspoelen na het strand is meer voor het zand dan voor het metaal."),
+            ("En chloor in het zwembad?", "Chloor is agressiever dan zeewater voor vergulde laagjes. Bij twijfel: sieraad af voor het zwembad, of kies een materiaal waar je niet over hoeft na te denken."),
+            ("Kort samengevat", "Massief goud: mag, spoel af. Sterling zilver: liever niet. Gold plated: nee. Roestvrij staal: altijd."),
+        ],
+        "cta_text": "Bekijk onze waterproof collectie",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Is My Jewellery waterproof? Zo controleer je het zelf",
+        "tags": "waterproof, vergelijking, materiaal, rvs sieraden, kopen",
+        "keywords": ["my jewellery waterproof", "waterproof sieraden kopen", "sieraden materiaal controleren"],
+        "meta": "Is My Jewellery waterproof? In plaats van te gokken: zo lees je bij elk merk aan de productinformatie af of een sieraad tegen water kan.",
+        "outline": [
+            ("Waarom je dit niet aan het merk kunt vragen", "Bijna elk sieradenmerk verkoopt meerdere materialen naast elkaar — verguld messing, sterling zilver en roestvrij staal in dezelfde collectie. Of iets waterproof is hangt dus af van het artikel, niet van het merk. Ook bij My Jewellery, Lucardi of welke winkel dan ook."),
+            ("Stap 1: zoek het materiaal op de productpagina", "Kijk naar de materiaalomschrijving, niet naar de sfeerfoto. Termen als 'stainless steel', 'roestvrij staal' of 'chirurgisch staal' betekenen dat het materiaal door en door hetzelfde is."),
+            ("Stap 2: let op de woorden die twijfel verraden", "'Verguld', 'gold plated', 'gecoat' en 'met gouden afwerking' betekenen allemaal hetzelfde: een laagje op iets anders. Dat laagje kan slijten. 'Messing', 'legering' en 'fashion metal' zijn dezelfde categorie."),
+            ("Stap 3: check of er een termijn bij staat", "Een merk dat vertrouwen heeft in het materiaal noemt een termijn — bijvoorbeeld een garantie tegen verkleuring. Staat er alleen 'waterbestendig' zonder verdere uitleg, dan zegt dat weinig."),
+            ("Waarom wij alleen roestvrij staal verkopen", "Bij Tudor Gems is elk sieraad van chirurgisch roestvrij staal, ook de goudkleurige. De kleur zit in een PVD-laag die veel sterker hecht dan traditioneel vergulden. Daarom durven we er twaalf maanden verkleurgarantie op te geven."),
+            ("De eerlijke kanttekening", "Roestvrij staal is niet duurder of luxer dan goud — het is een andere keuze. Wil je een erfstuk, koop massief goud. Wil je iets dat je nooit hoeft af te doen en dat betaalbaar blijft, dan is roestvrij staal de logische optie."),
+        ],
+        "cta_text": "Bekijk onze RVS collectie",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Bedels en hun betekenis — welke kies je?",
+        "tags": "bedels, bedelarmband, betekenis, symboliek, cadeau",
+        "keywords": ["bedels met betekenis", "bedelarmband betekenis", "bedel symboliek"],
+        "meta": "Wat betekent een klavertje, een hart of een sleutel? De betekenis achter de bekendste bedels, zodat je bewust kiest.",
+        "outline": [
+            ("Klavertje vier — geluk en toeval", "Het bekendste geluksymbool van Europa. De vier blaadjes staan traditioneel voor hoop, geloof, liefde en geluk. Een klassieker als cadeau bij een nieuw begin."),
+            ("Hart — liefde, maar niet alleen romantisch", "Een hart hoeft niet over een partner te gaan. Als cadeau tussen vriendinnen of van ouder op kind is het net zo gebruikelijk."),
+            ("Ster — richting en ambitie", "Sterren staan voor koers houden en je doel zien. Populair bij afstuderen of een nieuwe baan."),
+            ("Maan — verandering en rust", "De maan verandert voortdurend van vorm maar komt altijd terug. Een symbool voor doorzetten door fases heen."),
+            ("Sleutel — een nieuw hoofdstuk", "Klassiek cadeau bij een eerste huis, een verhuizing of achttien worden."),
+            ("Vlinder — transformatie", "Het symbool voor verandering en opnieuw beginnen. Vaak gekozen na een moeilijke periode."),
+            ("Initiaal of geboortesteen — het meest persoonlijk", "Een letter of een steen die bij iemands geboortemaand hoort maakt een armband direct van één persoon."),
+            ("Hoe combineer je bedels?", "Drie tot vijf bedels op één armband werkt het rustigst. Kies één betekenisvolle als middelpunt en vul aan met neutrale vormen."),
+        ],
+        "cta_text": "Bekijk onze bedelarmbanden",
+        "cta_url": "/collections/bedelarmbanden",
+    },
+    {
+        "title": "Welke kralen verkleuren niet? (en welke wel)",
+        "tags": "kralen, verkleuren, materiaal, kralenketting, onderhoud",
+        "keywords": ["welke kralen verkleuren niet", "kralenketting verkleurt", "kralen materiaal"],
+        "meta": "Glaskralen, natuursteen, hars of metaal — welke kralen houden hun kleur en welke niet? Per soort uitgelegd.",
+        "outline": [
+            ("Glaskralen: kleurvast", "De kleur zit in het glas zelf, niet erop. Glas reageert niet op water, zweet of zonlicht. Enige risico is breuk, geen verkleuring."),
+            ("Natuursteen: meestal stabiel, soms niet", "Echte steen houdt zijn kleur. Let op geverfde stenen — die worden soms bijgekleurd om ze feller te maken, en die verf slijt wel."),
+            ("Hars en acryl: gevoelig voor zon", "Hars kan na lange blootstelling aan direct zonlicht vergelen. Niet dramatisch, maar bij lichte kleuren zie je het."),
+            ("Zoetwaterparels: verkleuren door zuur", "Parels zijn kalk. Parfum, haarlak en zweet tasten het oppervlak aan en maken ze dof. Doe ze als laatste om en als eerste af."),
+            ("Metalen kralen: hangt van het metaal af", "Hier zit het echte risico. Verguld messing loopt aan, roestvrij staal niet. Bij een kralenketting met metalen tussenstukken bepaalt dat metaal hoe de ketting er over een jaar uitziet."),
+            ("Waar je op let bij het kopen", "Vraag niet 'verkleurt deze ketting' maar 'waar zijn de metalen delen van gemaakt'. Dat is het onderdeel dat het eerst opvalt als het misgaat."),
+        ],
+        "cta_text": "Bekijk onze kralenkettingen",
+        "cta_url": "/collections/kettingen",
+    },
+    {
+        "title": "Waar koop je waterproof sieraden? Waar je op moet letten",
+        "tags": "waterproof, kopen, keuzegids, rvs sieraden, materiaal",
+        "keywords": ["waar kan ik waterproof sieraden kopen", "waterproof sieraden kopen", "beste waterproof sieraden"],
+        "meta": "Waterproof sieraden kopen? Dit zijn de vier dingen die bepalen of een sieraad echt tegen water kan — ongeacht waar je koopt.",
+        "outline": [
+            ("Het materiaal is het enige dat telt", "Geen enkele coating maakt een sieraad waterproof. Alleen materialen die van nature niet oxideren doen dat: roestvrij staal en titanium."),
+            ("Vraag één: staat het materiaal er letterlijk?", "Als een productpagina het materiaal niet noemt, is dat het antwoord. Winkels die roestvrij staal verkopen zetten het erbij."),
+            ("Vraag twee: hoe zit de goudkleur erop?", "Bij PVD gaat de kleur er onder hoge temperatuur op en hecht hij op moleculair niveau. Bij vergulden ligt er een laagje overheen dat kan slijten. Vraag welke van de twee het is."),
+            ("Vraag drie: is er een termijn?", "Een winkel die garantie geeft op de kleur neemt het risico zelf. Zonder termijn is 'verkleurt niet' een mening."),
+            ("Vraag vier: wat kost het en klopt dat?", "Roestvrij staal is goedkoop in inkoop. Een RVS sieraad hoort geen honderden euro's te kosten. Kost het dat wel, dan betaal je voor het merk."),
+            ("Wat je mag verwachten qua prijs", "Voor waterproof roestvrij staal betaal je in Nederland grofweg tussen de twintig en vijftig euro per stuk. Daaronder wordt het materiaal twijfelachtig, daarboven betaal je vooral merknaam."),
+        ],
+        "cta_text": "Bekijk onze waterproof sieraden",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Enkelbandje kopen — welk model past bij jou?",
+        "tags": "enkelbandje, zomer, kopen, gids, rvs sieraden",
+        "keywords": ["enkelbandje kopen", "enkelbandje dames", "enkelbandje goud"],
+        "meta": "Fijn of juist opvallend, met bedeltjes of strak — welk enkelbandje past bij jou? En welke maat bestel je?",
+        "outline": [
+            ("Fijne schakel: het onopvallende model", "Een dunne ketting die je bijna vergeet. Past onder een broek en valt alleen op als je het wilt. De veiligste eerste keuze."),
+            ("Met bedeltjes: zichtbaar en speels", "Kleine hangertjes die meebewegen. Wordt sneller opgemerkt en past bij een zomerse look."),
+            ("Kralen en touw: de vakantievariant", "Losser van uitstraling, vaak in kleur. Let op het materiaal van de sluiting — daar gaat het meestal als eerste mis."),
+            ("Dubbel of gelaagd", "Twee kettinkjes op verschillende lengtes. Meer aanwezigheid zonder dat het zwaar wordt."),
+            ("Welke maat bestel je?", "Meet je enkel op het smalste punt, net boven het enkelbot, en tel er één tot twee centimeter bij op. Een enkelbandje hoort te kunnen draaien zonder af te vallen."),
+            ("Kun je het aanhouden in zee?", "Dat hangt van het materiaal af. Roestvrij staal kan gewoon mee het water in. Verguld messing is na één vakantie meestal niet meer wat het was."),
+            ("Links of rechts — maakt het uit?", "Praktisch niet. Er bestaan allerlei verhalen over betekenis per been, maar in Nederland draagt iedereen hem gewoon aan de kant die prettig zit."),
+        ],
+        "cta_text": "Bekijk onze enkelbandjes",
+        "cta_url": "/collections/enkelbandjes",
+    },
+    {
+        "title": "Ear cuff of oorclip — wat is het verschil?",
+        "tags": "ear cuff, oorclip, zonder gaatje, oorbellen, gids",
+        "keywords": ["ear cuff goud", "earcuff of oorclip", "oorbellen zonder gaatje"],
+        "meta": "Ear cuff of oorclip? Ze lijken op elkaar maar zitten totaal anders. Het verschil, en welke bij jouw oor past.",
+        "outline": [
+            ("De ear cuff: klemt om de rand", "Een open ringetje dat je over de buitenrand van je oor schuift, meestal halverwege of hoger. Hij zit vast door zijn vorm, niet door druk."),
+            ("De oorclip: knijpt op de oorlel", "Een klemmetje dat je oorlel vastpakt op de plek waar anders een gaatje zou zitten. Van buiten lijkt het op een gewone oorbel."),
+            ("Welke zit prettiger?", "Een ear cuff geeft minder druk omdat hij op kraakbeen rust en niet knijpt. Een oorclip kan na een paar uur gaan zeuren, zeker de zwaardere modellen."),
+            ("Welke ziet er echter uit?", "Een oorclip is bedoeld om op een echte oorbel te lijken. Een ear cuff doet dat juist niet — die is als sieraad zichtbaar en hoort dat ook te zijn."),
+            ("Kun je ze combineren?", "Ja, en dat is precies waarom ear cuffs populair zijn geworden. Een cuff hoog op je oor naast een stud of clip onderaan geeft de indruk van meerdere piercings."),
+            ("Waar let je op bij het kopen?", "De opening bepaalt of hij blijft zitten. Te wijd en hij zakt, te strak en het gaat knellen. Een model dat je een klein beetje kunt bijbuigen is het meest vergevingsgezind."),
+        ],
+        "cta_text": "Bekijk onze ear cuffs",
+        "cta_url": "/collections/oorclips",
+    },
+    {
+        "title": "Schakelketting of ketting met hanger — wat kies je?",
+        "tags": "ketting, schakelketting, hanger, keuzegids, rvs sieraden",
+        "keywords": ["schakelketting", "ketting met hanger", "welke ketting kiezen"],
+        "meta": "Een schakelketting of juist een ketting met hanger? Het verschil in uitstraling, draagbaarheid en combineren.",
+        "outline": [
+            ("Wat een schakelketting doet", "Een schakelketting is zelf het sieraad. De schakels vormen het patroon, er hoeft niets aan te hangen. Rustiger in het gebruik, want er is niets dat scheef kan hangen."),
+            ("Wat een hanger doet", "Een hanger trekt de blik naar één punt. Dat maakt hem persoonlijker — je kiest een vorm die iets betekent — maar ook nadrukkelijker."),
+            ("Welke past bij een drukke outfit?", "Bij een print of een opvallende kraag werkt een schakelketting beter. Een hanger vecht dan om aandacht."),
+            ("Welke past bij een effen shirt?", "Daar komt een hanger het best tot zijn recht. Een effen bovenstuk is de achtergrond die hij nodig heeft."),
+            ("Samen dragen: de gelaagde look", "Draag de schakelketting kort en de hanger langer, met minstens vijf centimeter verschil. Anders klitten ze in elkaar."),
+            ("Wat gaat langer mee?", "Schakelkettingen hebben meer bewegende delen en dus meer plekken waar slijtage kan ontstaan. Bij roestvrij staal maakt dat weinig uit; bij verguld is een schakelketting kwetsbaarder omdat de laag op elk contactpunt slijt."),
+        ],
+        "cta_text": "Bekijk onze kettingen",
+        "cta_url": "/collections/kettingen",
+    },
+    {
+        "title": "Sieraden in de herfst — welke kleuren werken nu",
+        "tags": "herfst, seizoen, kleuren, stijl, goud",
+        "keywords": ["sieraden herfst", "herfstkleuren sieraden", "goud of zilver herfst"],
+        "meta": "Warme tinten, laagjes en meer metaal: hoe je sieraden meebewegen met het herfstseizoen zonder alles te vervangen.",
+        "outline": [
+            ("Waarom goud het in de herfst wint", "Herfstkleding zit vol warme tinten: camel, roest, olijf, bordeaux. Goud sluit daarbij aan, zilver zet er een koele toon tegenover."),
+            ("Laagjes vragen om langere kettingen", "Over een trui of colletje valt een korte ketting weg. Vanaf ongeveer vijfenvijftig centimeter komt hij weer vrij te liggen."),
+            ("Oorbellen worden belangrijker", "Met een sjaal en een hoge kraag is je hals bedekt. De aandacht verschuift naar je oren, en dat is het moment voor grotere hoepels of een ear stack."),
+            ("Armbanden onder een mouw", "Een smalle armband schuift comfortabel onder een mouw. Brede modellen blijven haken aan gebreid materiaal."),
+            ("Ringen in koud weer", "Je vingers worden dunner als het kouder wordt. Een ring die in juli precies zat kan in november afglijden — verstelbare modellen zijn hier praktisch."),
+            ("Wat je niet hoeft te wisselen", "Roestvrij staal heeft geen seizoensonderhoud nodig. Regen, kou en natte handschoenen doen er niets mee."),
+        ],
+        "cta_text": "Bekijk onze collectie",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Sieraden als kerstcadeau — zo kies je iets persoonlijks",
+        "tags": "kerst, cadeau, sieraden, tips, december",
+        "keywords": ["sieraden kerstcadeau", "kerstcadeau vrouw sieraad", "persoonlijk cadeau sieraad"],
+        "meta": "Een sieraad als kerstcadeau geven zonder mis te gokken: op welke signalen let je, en wat kies je bij twijfel?",
+        "outline": [
+            ("Kijk eerst naar wat ze al draagt", "Het beste signaal ligt voor het oprapen. Draagt ze goud of zilver? Fijn of opvallend? Kettingen of vooral oorbellen? Een cadeau in dezelfde richting wordt vaker gedragen dan een verrassing in een andere stijl."),
+            ("Goud of zilver — de enige vraag die telt", "De meeste mensen dragen consequent het een of het ander. Zit je hier fout, dan belandt het cadeau in een la, hoe mooi het ook is."),
+            ("Bij twijfel: kies iets zonder maat", "Een ketting, oorbellen of een verstelbare armband passen altijd. Ringen zijn het risicovolst — daarvoor moet je de maat weten."),
+            ("Persoonlijk maken zonder te overdrijven", "Een initiaal, een geboortesteen of een symbool dat ergens naar verwijst maakt een cadeau van iemand. Eén persoonlijk element is genoeg; twee wordt snel te veel."),
+            ("Waarom materiaal bij een cadeau extra telt", "Een cadeau dat na drie maanden verkleurt is een cadeau dat wordt weggelegd. Roestvrij staal blijft hetzelfde, ook bij dagelijks dragen."),
+            ("Verpakking en presentatie", "Een sieraad in een doosje maakt meer indruk dan hetzelfde sieraad in een zakje. Bij twijfel over de keuze: geef er een cadeaubon bij zodat ruilen kan zonder gedoe."),
+        ],
+        "cta_text": "Bekijk onze cadeau-ideeën",
+        "cta_url": "/collections/cadeau-ideeen",
+    },
+    {
+        "title": "Hoe lang gaat een RVS sieraad mee?",
+        "tags": "levensduur, rvs sieraden, onderhoud, kwaliteit",
+        "keywords": ["hoe lang gaat rvs mee", "levensduur sieraad", "rvs sieraden kwaliteit"],
+        "meta": "Hoe lang blijft een RVS sieraad mooi? Wat er in de praktijk slijt, wat niet, en wat je zelf kunt doen.",
+        "outline": [
+            ("Het materiaal zelf slijt nauwelijks", "Roestvrij staal corrodeert niet en verandert niet van kleur. In normaal gebruik is het metaal na tien jaar nog hetzelfde als op dag één."),
+            ("Wat wél slijt: de sluiting", "Een karabijnsluiting is het enige bewegende deel. Bij dagelijks openen en sluiten is dat het onderdeel dat als eerste speling krijgt."),
+            ("Krassen horen erbij", "Roestvrij staal is hard maar niet onkwetsbaar. Fijne krasjes ontstaan door contact met andere sieraden. Apart bewaren scheelt het meest."),
+            ("De goudkleur: wat bepaalt hoe lang die blijft", "Bij PVD is de kleurlaag ingebrand in plaats van erop gelegd. Die gaat jaren mee, maar op plekken met constante wrijving — de binnenkant van een ring — kun je na verloop van tijd verschil zien."),
+            ("Wat je zelf kunt doen", "Afspoelen na de zee, drogen met een zachte doek, en parfum eerst laten intrekken voordat je het sieraad omdoet. Meer is niet nodig."),
+            ("Wanneer is het echt op?", "In de praktijk gaat een RVS sieraad niet stuk aan het metaal maar aan een sluiting of een verloren bedeltje. Beide zijn los te vervangen."),
+        ],
+        "cta_text": "Bekijk onze collectie",
+        "cta_url": "/collections/alle-sieraden",
+    },
+    {
+        "title": "Een sieraad kopen voor iemand anders — zonder te vragen",
+        "tags": "cadeau, maat, stijl, tips, kopen",
+        "keywords": ["sieraad cadeau kopen", "welke maat sieraad cadeau", "cadeau zonder te vragen"],
+        "meta": "Een sieraad cadeau doen zonder de verrassing te verpesten: zo kom je achter maat, stijl en voorkeur.",
+        "outline": [
+            ("Ringmaat achterhalen zonder te vragen", "Leen een ring die ze aan dezelfde vinger draagt en meet de binnendiameter met een liniaal. Of leg hem op een ringmaatkaart. Doe dit met een ring van de juiste hand — de maten verschillen links en rechts."),
+            ("Armbandmaat inschatten", "De meeste damesarmbanden zitten tussen zeventien en negentien centimeter. Kies bij twijfel de ruimere maat; te los valt mooier dan te strak."),
+            ("Kettinglengte: kijk naar wat ze draagt", "Meet een ketting die ze vaak omheeft. Vijfenveertig centimeter is de meest gedragen lengte en de veiligste gok."),
+            ("Goud of zilver: check haar foto's", "Blader door recente foto's op je telefoon. Binnen twee minuten weet je welke kleur ze consequent draagt."),
+            ("Let op wat ze niet draagt", "Draagt ze nooit oorbellen, dan is daar meestal een reden voor — gevoelige oren of geen gaatjes. Een ear cuff is dan een betere keuze dan een stud."),
+            ("De veiligste categorieën", "Kettingen zonder maat, verstelbare armbanden en ear cuffs passen vrijwel altijd. Ringen en strakke armbanden zijn de enige waar je echt kunt missen."),
+        ],
+        "cta_text": "Bekijk onze cadeau-ideeën",
+        "cta_url": "/collections/cadeau-ideeen",
+    },
 ]
 
 # ── SHOPIFY AUTH ─────────────────────────────────────────────────────
@@ -1169,7 +1367,7 @@ def build_article_html(topic):
 
     html += f'<h2>Ontdek de collectie</h2>\n'
     html += f'<p>Bekijk onze <a href="{topic["cta_url"]}">{topic["cta_text"].lower()}</a> — '
-    html += f"RVS sieraden van €10 tot €40, gratis verzending vanaf €35.</p>\n"
+    html += f"RVS sieraden vanaf €18,99 — gratis verzending naar Nederland en België.</p>\n"
 
     return html
 
@@ -1207,8 +1405,11 @@ def main():
             break
 
     if next_index is None:
-        print("Alle geplande onderwerpen zijn al gebruikt. Voeg nieuwe toe aan TOPICS.")
-        sys.exit(0)
+        print("FOUT: alle geplande onderwerpen zijn opgebruikt. "
+              "Voeg nieuwe toe aan TOPICS in daily_blog.py.")
+        # Bewust exitcode 1: anders meldt GitHub Actions dagenlang 'success'
+        # terwijl er niets gepubliceerd wordt. Zo krijg je een mail.
+        sys.exit(1)
 
     topic = TOPICS[next_index]
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M')}] Artikel #{next_index + 1}: {topic['title']}")
