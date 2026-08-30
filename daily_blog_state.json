@@ -67,7 +67,8 @@
     64,
     65,
     66,
-    67
+    67,
+    68
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -408,5 +409,10 @@
     "shopify_id": 1005822345548,
     "title": "Festival sieraden \u2014 wat draag je (en wat laat je thuis)?",
     "uploaded_at": "2026-08-04T11:29:33.610347"
+  },
+  "article_68": {
+    "shopify_id": 1006209565004,
+    "title": "Kan goud tegen water? (en zilver, gold plated en RVS)",
+    "uploaded_at": "2026-08-30T07:18:29.333035"
   }
 }
