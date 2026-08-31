@@ -69,7 +69,8 @@
     66,
     67,
     68,
-    69
+    69,
+    70
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -420,5 +421,10 @@
     "shopify_id": 1006272840012,
     "title": "Is My Jewellery waterproof? Zo controleer je het zelf",
     "uploaded_at": "2026-08-30T14:21:57.285689"
+  },
+  "article_70": {
+    "shopify_id": 1006296039756,
+    "title": "Bedels en hun betekenis \u2014 welke kies je?",
+    "uploaded_at": "2026-08-31T16:58:47.463414"
   }
 }
