@@ -70,7 +70,8 @@
     67,
     68,
     69,
-    70
+    70,
+    71
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -426,5 +427,10 @@
     "shopify_id": 1006296039756,
     "title": "Bedels en hun betekenis \u2014 welke kies je?",
     "uploaded_at": "2026-08-31T16:58:47.463414"
+  },
+  "article_71": {
+    "shopify_id": 1006325989708,
+    "title": "Welke kralen verkleuren niet? (en welke wel)",
+    "uploaded_at": "2026-09-01T14:04:10.450232"
   }
 }
