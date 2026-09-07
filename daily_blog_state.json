@@ -76,7 +76,8 @@
     73,
     74,
     75,
-    76
+    76,
+    77
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -462,5 +463,10 @@
     "shopify_id": 1006404763980,
     "title": "Sieraden in de herfst \u2014 welke kleuren werken nu",
     "uploaded_at": "2026-09-06T12:47:22.924058"
+  },
+  "article_77": {
+    "shopify_id": 1006423507276,
+    "title": "Sieraden als kerstcadeau \u2014 zo kies je iets persoonlijks",
+    "uploaded_at": "2026-09-07T14:57:56.347627"
   }
 }
