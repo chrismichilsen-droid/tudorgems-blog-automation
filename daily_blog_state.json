@@ -77,7 +77,8 @@
     74,
     75,
     76,
-    77
+    77,
+    78
   ],
   "article_0": {
     "shopify_id": 1002051109196,
@@ -468,5 +469,10 @@
     "shopify_id": 1006423507276,
     "title": "Sieraden als kerstcadeau \u2014 zo kies je iets persoonlijks",
     "uploaded_at": "2026-09-07T14:57:56.347627"
+  },
+  "article_78": {
+    "shopify_id": 1006444773708,
+    "title": "Hoe lang gaat een RVS sieraad mee?",
+    "uploaded_at": "2026-09-08T13:27:07.257830"
   }
 }
